@@ -1,8 +1,7 @@
 # Final_project_master
 My final project for my master degree in Data Technology.
 
-This project aims to help in detecting full trash bins for a more efficient collecting. For training and testing, I used a dataset from Kaggle. (1)
-A full documentation ("Documentatie.pdf" file) can be found in Romanian language.
+This project aims to help in detecting full trash bins for a more efficient collecting. For training and testing, I used a dataset from Kaggle (1). A full documentation ("Documentatie.pdf" file) can be found in Romanian language.
 
 The application is able to perform two task of computer vision:
 - Image classification (2)
