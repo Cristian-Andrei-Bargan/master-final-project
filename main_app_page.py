@@ -1,6 +1,4 @@
 import streamlit as st
-import numpy as np
-import pandas as pd
 
 st.logo("logo2.png", icon_image="logo3.png", size="large")
 pages = [
