@@ -9,7 +9,7 @@ The application is able to perform two task of computer vision:
 - Object detection (3)
 
 In order to use the project, it is necessary to perform the following steps:
-- Go to "disertatie-app" in your terminal
+- Go to project folder in your terminal
 - Run the following command:
 ```
 streamlit run main_app_page.py
